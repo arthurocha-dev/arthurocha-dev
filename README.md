@@ -24,7 +24,7 @@ Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado 
              title="LinkedIn" 
              src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
     </a>
-   <a href="arthurocha.tecinfor@gmail.com" target="_blank">
+   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWstxRHJKTHpTJGHljwxZXhJMmZNHBMPqpjmMLSdcjzmdMGQFLlhFFFJDvdJWzNQMTSDLFScL" target="_blank">
     <img alt="Gmail" 
          title="Gmail" 
          src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
