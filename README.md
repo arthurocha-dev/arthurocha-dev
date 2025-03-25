@@ -117,7 +117,6 @@ Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado 
 />
 
 <img
- <img
     align="left"
     alt="GitHub Porcetage"
     height="200px"
