@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado por tecnologia e atualmente estou focado em aprender **Java e banco de dados** para seguir carreira na área de programação, mas também tenho noções em HTML, CSS, Phyton e estou procurando aprender JavaScript. Pretendo cursar faculdade na área e estou sempre buscando novos desafios para aprimorar minhas habilidades, desenvolvendo projetos e me aprofundando em boas práticas de código.
+Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado por tecnologia e atualmente estou focado em aprender **Java e banco de dados** para seguir carreira na área de programação, mas também tenho noções em HTML, CSS, Python e estou procurando aprender JavaScript. Pretendo cursar faculdade na área e estou sempre buscando novos desafios para aprimorar minhas habilidades, desenvolvendo projetos e me aprofundando em boas práticas de código.
 
 
 
