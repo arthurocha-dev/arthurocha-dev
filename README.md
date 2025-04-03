@@ -112,16 +112,17 @@ Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado 
     <img 
         src="https://github-readme-stats.vercel.app/api?username=arthurocha-dev&show_icons=true&theme=radical&locale=pt-br" 
         alt="GitHub Stats" 
-        height="200px"
-        widht="350px"
+        height="150px" 
+        width="280px"
     />
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurocha-dev&theme=radical&layout=compact&custom_title=Tecnologias%20Porcentagem&langs_count=7" 
         alt="Linguagens mais usadas" 
-        height="200px"
-        widht="35px"
+        height="150px" 
+        width="280px"
     />
 </p>
+
 
 
 
