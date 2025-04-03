@@ -103,9 +103,8 @@ Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br>
-<br>
 
+<br>
 ### Estatísticas 📊
 
 <p>
