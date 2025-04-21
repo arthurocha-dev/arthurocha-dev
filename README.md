@@ -133,7 +133,7 @@ Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado 
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurocha-dev&theme=radical&layout=compact&custom_title=Tecnologias%20Porcentagem&langs_count=7" 
         alt="Linguagens mais usadas" 
-        height="234px" 
+        height="234px"
         width="416px"
     />
 </p>
