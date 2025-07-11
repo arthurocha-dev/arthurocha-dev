@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado por tecnologia e atualmente estou focado em me desenvolver como programador **Full-Stack Mobile** para seguir carreira na área de programação, mas ja tenho noções em ** Dart, Flutter Python, Java, Sqlite, PostgreSql** e estou procurando aprender **Flutter** no momento. Pretendo cursar faculdade na área e estou sempre buscando novos desafios para aprimorar minhas habilidades, desenvolvendo projetos e me aprofundando em boas práticas de código.
+Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado por tecnologia e atualmente estou focado em me desenvolver como programador **Full-Stack Mobile** para seguir carreira na área de programação, mas ja tenho noções em **Dart, Flutter Python, Java, Sqlite, PostgreSql** e estou procurando aprender **Flutter** no momento. Pretendo cursar faculdade na área e estou sempre buscando novos desafios para aprimorar minhas habilidades, desenvolvendo projetos e me aprofundando em boas práticas de código.
 
 
 
@@ -75,34 +75,6 @@ Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado 
 />
 
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
 
 <img
     align="left"
@@ -115,8 +87,8 @@ Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado 
 
 <img
     align="left"
-    alt="Python"
-    title="Python"
+    alt="Dart"
+    title="Dart"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
@@ -126,8 +98,8 @@ Me chamo Arthur, tenho 17 anos e estou no último ano da escola. Sou apaixonado 
 
 <img
     align="left"
-    alt="Python"
-    title="Python"
+    alt="Flutter"
+    title="Flutter"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
